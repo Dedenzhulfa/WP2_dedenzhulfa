@@ -15,7 +15,8 @@ body{
  
 #wrapper header hgroup{     
     float: left;     
-    color: #fff; } 
+    color: #fff;
+    background-color: black; } 
  
 #wrapper header nav{ 
     float: right;     
