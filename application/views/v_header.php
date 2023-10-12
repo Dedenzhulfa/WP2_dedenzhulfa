@@ -4,7 +4,7 @@
     <meta charset=”utf-8”>
     <title>Web Prog II | Merancang Template sederhana dengan CodeIgniter</title>
     <link rel=”stylesheet” type=”text/css” href=”<?php echo 
-base_url() ?>assets/css/stylebuku.css”>
+base_url() ?>assets\css\stylebuku.css”>
 </head>
 <body>
     <div id=”wrapper”>
@@ -17,10 +17,10 @@ CodeIgniter</h3>
             <nav>
                 <ul>
                     <li><a href=”<?php echo 
-base_url().’index.php/web’ ?>”>Home</a></li>
+base_url().'index.php/Web' ?>”>Home</a></li>
                     <li><a href=”<?php echo 
-base_url().’index.php/web/about’ ?>”>About</a></li>
+base_url().'index.php/Web/about' ?>”>About</a></li>
                 </ul>
             </nav>
             <div class=”clear”></div>
-        </header>
+        </header
