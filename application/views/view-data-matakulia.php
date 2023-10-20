@@ -19,7 +19,7 @@
                         <th>Kode MTK</th>
                         <th>:</th>
                         <td>
-                            <input type="text" name="kode" id="kode">
+                            <? $kode; ?>
                         </td>
                     </tr>
                     <tr>
