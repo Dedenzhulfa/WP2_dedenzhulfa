@@ -1,4 +1,4 @@
-<!-- Begin Page Content -->
+<!-- Bagian Index -->
 <div class="container-fluid">
  <!-- row ux-->
  <div class="row">
