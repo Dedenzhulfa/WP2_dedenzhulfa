@@ -7,6 +7,7 @@ class ModelUser extends CI_Model
  {
  $this->db->insert('user', $data);
  }
+ //menambahkan method cekData
  public function cekData($where = null)
  {
  return $this->db->get_where('user', $where);
