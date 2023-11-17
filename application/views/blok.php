@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
  <title>Akses diblock </title>
- <!-- Custom fonts for this template-->
+ <!-- link assets-->
  <link href="<?= base_url('assets/');?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
  <link
 href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,30
