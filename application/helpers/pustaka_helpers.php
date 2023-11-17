@@ -1,3 +1,4 @@
+<!--ini adalah pustaka helpers-->
 <?php
 function cek_login()
 {
