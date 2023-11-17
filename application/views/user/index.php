@@ -1,4 +1,4 @@
-<!-- Begin Page Content -->
+<!-- Halaman index user -->
 <div class="container-fluid">
  <div class="row">
  <div class="col-lg-6 justify-content-x">
