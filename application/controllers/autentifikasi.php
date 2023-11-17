@@ -66,6 +66,7 @@ Ubah Profile Anda untuk Ubah Photo Profil</div>');
  }
  }
 
+ //menambahkan method blok
  public function blok()
  {
  $this->load->view('autentifikasi/blok');
