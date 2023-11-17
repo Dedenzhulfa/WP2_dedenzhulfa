@@ -1,4 +1,5 @@
 <?php
+//autentifikasi
 class Autentifikasi extends CI_Controller
 {
  public function index()
