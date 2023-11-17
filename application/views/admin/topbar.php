@@ -1,4 +1,4 @@
-<!-- Content Wrapper -->
+<!-- ini adalah bagian Topbar -->
 <div id="content-wrapper" class="d-flex flex-column">
  <!-- Main Content -->
  <div id="content">
